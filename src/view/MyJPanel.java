@@ -111,7 +111,7 @@ public class MyJPanel extends JPanel {
     }
 
     private boolean checkInteger(String currentInput){
-
+        //S - testing
         boolean isInteger = false;
 
         try{
